@@ -29,7 +29,6 @@ El usuario escribe nombres, los añade a una lista y al final puede sortear uno 
 3. Cuando tengas la lista lista, haz clic en **Sortear Amigo**.  
 4. El sistema elegirá uno al azar y lo mostrará en pantalla.
 
----
 ✍️ Proyecto hecho con fines prácticos de aprendizaje.
 ---
 
